@@ -91,6 +91,9 @@ Use the file to patch the LDAP server:
 - `sudo ldapmodify -Y EXTERNAL -H ldapi:// -f ./olcSaslSecProps.ldif`
 - `systemctl restart slapd` or `service slapd restart`
 
+Test modifications:
+- `ldapsearch -H ldap:// -x -LLL -s base -b "" supportedSASLMechanisms`
+
 Now listen using tcpdump:
 
 `sudo tcpdump -SX -i eth0 tcp port 389`
