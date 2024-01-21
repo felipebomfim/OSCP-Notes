@@ -1,6 +1,7 @@
 ## HackTheBox AD machines
 Do the following machines and watch ippsec's videos on them
 - active
+- sauna
 - monteverde
 - cascade
 - fuse
@@ -9,7 +10,6 @@ Do the following machines and watch ippsec's videos on them
 - resolute
 - sizzle
 - multimaster
-- sauna
 - forest
 - object
 
