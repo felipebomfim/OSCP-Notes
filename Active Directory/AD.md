@@ -2,6 +2,7 @@
 Do the following machines and watch ippsec's videos on them
 - active
 - sauna
+- forest
 - monteverde
 - cascade
 - fuse
@@ -9,7 +10,6 @@ Do the following machines and watch ippsec's videos on them
 - remote
 - resolute
 - multimaster
-- forest
 - object
 - sizzle
 
