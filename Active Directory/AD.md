@@ -8,10 +8,10 @@ Do the following machines and watch ippsec's videos on them
 - intelligence
 - remote
 - resolute
-- sizzle
 - multimaster
 - forest
 - object
+- sizzle
 
 # Enumeration
 
