@@ -16,7 +16,7 @@ Do the following machines and watch ippsec's videos on them
 # Enumeration
 
 ## RPC
-RPC Null Authentication: `rpcclient -U '' <IP>`
+RPC Null Authentication: `rpcclient -N -U '' <IP>`
 
 RPC Null Authentication with no password: `rpcclient -U '' <IP>`
 
